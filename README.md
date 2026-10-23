@@ -1,5 +1,9 @@
 # team-version-control
 Team project demonstrating Git branches, pull requests, code reviews, and merge conflict resolution.
+
+## User Login Module
+Allows users to log in to the Library Management System.
+
 # Team Version Control Project
 
 ## Project Overview
@@ -30,3 +34,4 @@ When two branches modify the same lines differently, GitHub identifies a merge c
 
 ## Result
 The repository demonstrates modular development, branch management, pull requests, code review, and merge conflict resolution.
+
